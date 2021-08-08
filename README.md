@@ -4,7 +4,7 @@ Hi! This repository is no longer being used and has been archived for historical
 
 * 🛠 **CLI Source Code & Pull Requests** now live at [github.com/npm/cli](https://github.com/npm/cli)
 
-* 🐞 **Bugs**: Reports of bugs can be filed against our new repo [github.com/npm/cli](https://github.com/npm/cli/issues/new/choose).
+* 🐞 **Bugs**: Reports of bugs can be filed against our new repo [github.com/npm/cli](https://github.com/npm/cli/issues/new/choose)
 
 * ⭐️ **Feature Requests**: Add your request or discuss the project w/ the community at [github.com/npm/rfcs/discussions](https://github.com/npm/rfcs/discussions)
 
